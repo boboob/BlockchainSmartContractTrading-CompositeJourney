@@ -54,7 +54,7 @@ npm install
 ```
 다음과 같은 결과가 나옵니다:
 ```bash
-> mkdirp ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/product-auction.bna
+> mkdir ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/product-auction.bna
 
 Creating Business Network Archive
 
